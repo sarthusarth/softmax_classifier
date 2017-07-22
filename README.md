@@ -3,5 +3,8 @@ Linear classifier for MNSIT dataset. For understanding backprop read the amazing
 <p align='center'>
 <img src='backprop.jpeg'>
 </p>
+
 ### Visualizing the Weights
-<img src='figure_1.png'>
+<p align='center'>
+  <img src='figure_1.png'>
+</p>
